@@ -1,0 +1,86 @@
+.arrow_bottom.data-v-2b8e7b65 {
+  width: 18rpx;
+  height: 20rpx;
+}
+.student_list.data-v-2b8e7b65 {
+  color: #000000;
+}
+.student_content.data-v-2b8e7b65 {
+  background-color: #FFFFFF;
+  margin-top: 40rpx;
+  font-size: 30rpx;
+  color: #40474E;
+}
+.list_arrow.data-v-2b8e7b65 {
+  width: 64rpx;
+  height: 64rpx;
+}
+.text_list .textname.data-v-2b8e7b65 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  color: #40474E;
+  font-size: 32rpx;
+}
+.text_list .textname .status_display.data-v-2b8e7b65 {
+  color: #929CA4;
+  font-size: 24rpx;
+}
+.hide_list.data-v-2b8e7b65 {
+  background-color: #F8F8F8;
+  color: #40474E;
+  font-size: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 30rpx 80rpx;
+}
+.text_list.data-v-2b8e7b65 {
+  padding: 32rpx 80rpx;
+  line-height: 68rpx;
+  border-bottom: #F8F8F8 solid 2rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 30rpx;
+  font-weight: 400;
+  color: #40474E;
+}
+.text_list .imgBox.data-v-2b8e7b65 {
+  width: 10%;
+  text-align: center;
+}
+.text_list .temperature.data-v-2b8e7b65 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+  text-align: center;
+}
+.text_list .temperature .temperatureNum.data-v-2b8e7b65 {
+  padding: 0 40rpx;
+  color: #929CA4;
+  font-size: 42rpx;
+}
+.text_list .temperature image.data-v-2b8e7b65 {
+  display: inline-block;
+  width: 24rpx;
+  height: 34rpx;
+}
+.text_list .textLogo.data-v-2b8e7b65 {
+  width: 44rpx;
+  height: 44rpx;
+  margin-right: 40rpx;
+}
+

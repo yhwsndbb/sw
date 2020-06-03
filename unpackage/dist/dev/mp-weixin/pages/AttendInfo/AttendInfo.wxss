@@ -1,0 +1,56 @@
+.DataNo.data-v-0ff7df76 {
+  margin: 300rpx auto;
+  text-align: center;
+}
+.AttendContent.data-v-0ff7df76 {
+  padding: 40rpx;
+}
+.AttendCard.data-v-0ff7df76 {
+  background: #ffffff;
+  box-shadow: 0px 2px 22px 0px rgba(106, 119, 133, 0.13);
+  border-radius: 8px;
+  min-height: 75vh;
+  padding: 20rpx 40rpx;
+}
+.AttendList.data-v-0ff7df76 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  line-height: 100rpx;
+  border-bottom: #F8F8F8 solid 2rpx;
+  padding: 10rpx 0;
+}
+.AttendList .AttendLogoBox.data-v-0ff7df76 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.AttendList .AttendLogoBox .attimg.data-v-0ff7df76 {
+  width: 80rpx;
+  height: 80rpx;
+  vertical-align: middle;
+}
+.AttendList .Attendname.data-v-0ff7df76 {
+  -webkit-box-flex: 8;
+  -webkit-flex: 8;
+          flex: 8;
+}
+.AttendList .StatusBox.data-v-0ff7df76 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.AttendList .AttendStatus.data-v-0ff7df76 {
+  width: 45px;
+  height: 20px;
+  background: #FF9E18;
+  color: #fff;
+  border-radius: 11px;
+  line-height: 39rpx;
+  text-align: center;
+  font-size: 24rpx;
+}
+

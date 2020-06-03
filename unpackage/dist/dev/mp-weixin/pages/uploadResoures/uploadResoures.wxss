@@ -1,0 +1,117 @@
+.DataNo {
+  margin: 300rpx auto;
+  text-align: center;
+}
+checkbox .wx-checkbox-input {
+  border-radius: 50% !important;
+  color: #ffffff !important;
+}
+checkbox .wx-checkbox-input.wx-checkbox-input-checked {
+  color: #fff;
+  background: #39D696;
+}
+.wx-checkbox-input.wx-checkbox-input-checked {
+  border: none !important;
+}
+.btnBox {
+  position: fixed;
+  bottom: 1%;
+}
+.sbumitBtn {
+  width: 560rpx;
+  text-align: center;
+  line-height: 80rpx;
+  padding: 0 80rpx;
+  color: #929CA4;
+}
+.sbumitBtn view {
+  border-radius: 6px;
+}
+.sbumitBtn .Nosubmit {
+  background-color: #F0F0F0;
+}
+.sbumitBtn .toSubmit {
+  color: #FFFFFF;
+  background-color: #03C173;
+}
+.ulContent {
+  padding: 10rpx 40rpx;
+}
+ .uni-searchbar__box {
+  border: none;
+  border-style: none !important;
+}
+.bgc {
+  background-color: #03C173 !important;
+}
+.uploadResoures {
+  padding: 0 20rpx;
+}
+.uploadResoures .classTitle {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 10rpx;
+  border-bottom: #F8F8F8 solid 2rpx;
+  padding: 30rpx 0;
+}
+.uploadResoures .classTitle .arrowImg {
+  width: 20rpx;
+  height: 12rpx;
+}
+.list_arrow {
+  width: 28rpx;
+  height: 20rpx;
+}
+.text_list .textname {
+  -webkit-box-flex: 9;
+  -webkit-flex: 9;
+          flex: 9;
+  margin-left: 40rpx;
+  margin-right: 30rpx;
+  overflow: hidden;
+}
+.text_list {
+  width: 100%;
+  -webkit-transition: left 0.2s ease-in-out;
+  transition: left 0.2s ease-in-out;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background-color: #FFFFFF;
+  line-height: 130rpx;
+  border-bottom: #F8F8F8 solid 2rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 30rpx;
+  color: #40474E;
+}
+.text_list .textLogoBox {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.text_list .arrowIMg {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.text_list .textLogo {
+  width: 50rpx;
+  height: 50rpx;
+  vertical-align: middle;
+}
+

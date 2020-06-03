@@ -1,0 +1,66 @@
+{
+  "pages": [
+    "pages/assistant/assistant",
+    "pages/index/index",
+    "pages/questionAsk/questionAsk",
+    "pages/referat/referat",
+    "pages/prepareLessons/prepareLessons",
+    "pages/settings/settings",
+    "pages/testDetails/testDetails",
+    "pages/underTest/underTest",
+    "pages/resourceLibrary/resourceLibrary",
+    "pages/login/login",
+    "pages/curriculumLibrary/curriculumLibrary",
+    "pages/curriculumInfo/curriculumInfo",
+    "pages/testInfo/testInfo",
+    "pages/addResource/addResource",
+    "pages/ResourcesTag/ResourcesTag",
+    "pages/uploadResoures/uploadResoures",
+    "pages/searchTag/searchTag",
+    "pages/editTag/editTag",
+    "pages/videoMP/videoMP",
+    "pages/makeClass/makeClass",
+    "pages/classChapter/classChapter",
+    "pages/ClassTree/ClassTree",
+    "pages/MakeRecord/MakeRecord",
+    "pages/MakeInfo/MakeInfo",
+    "pages/AttendInfo/AttendInfo",
+    "pages/TestingReport/TestingReport",
+    "pages/texts/texts",
+    "pages/uploadFile/uploadFile",
+    "pages/txt/txt"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#929CA4",
+    "selectedColor": "#03C173",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/assistant/assistant",
+        "iconPath": "static/image/assistant1.png",
+        "selectedIconPath": "static/image/assistant2.png",
+        "text": "智能助教"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/image/classroom1.png",
+        "selectedIconPath": "static/image/classroom2.png",
+        "text": "智能课堂"
+      },
+      {
+        "pagePath": "pages/prepareLessons/prepareLessons",
+        "iconPath": "static/image/prepare1.png",
+        "selectedIconPath": "static/image/prepare2.png",
+        "text": "智能备课"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

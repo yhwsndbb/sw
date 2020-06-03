@@ -1,0 +1,51 @@
+.addFileBox.data-v-961bbeb2 {
+  z-index: 999;
+  position: fixed;
+  bottom: 3%;
+  right: 14%;
+}
+.addFileBox .addFileBth.data-v-961bbeb2 {
+  width: 275px;
+  height: 52px;
+  background: #03c173;
+  border-radius: 26px;
+  color: #FFFFFF;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 100rpx;
+}
+.selectedTag.data-v-961bbeb2 {
+  border: 2rpx solid #03C173 !important;
+  color: #03C173 !important;
+}
+.tabInput.data-v-961bbeb2 {
+  background-color: #F0F1F3;
+  width: 140rpx;
+  padding: 20rpx 10rpx 20rpx 30rpx;
+  border-radius: 50rpx;
+  margin: 40rpx 0;
+}
+.tagBox.data-v-961bbeb2 {
+  margin-top: 20rpx;
+  margin-right: 20rpx;
+  width: 180rpx;
+  height: 80rpx;
+  border-radius: 50rpx;
+  border: 2rpx solid #929ca4;
+  text-align: center;
+  line-height: 80rpx;
+  display: inline-block;
+  font-size: 28rpx;
+  color: #40474E;
+}
+.tagBox.data-v-961bbeb2:first-child {
+  margin-left: 0;
+}
+.addResource_content.data-v-961bbeb2 {
+  padding: 0 30rpx;
+}
+.data-v-961bbeb2 .uni-searchbar__box {
+  border: none;
+  border-style: none !important;
+}
+

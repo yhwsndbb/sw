@@ -1,0 +1,42 @@
+.sideTabContainer.data-v-35ef3118 {
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  min-height: 100vh;
+}
+.sideTab.data-v-35ef3118 {
+  -webkit-box-flex: 3;
+  -webkit-flex: 3;
+          flex: 3;
+  font-size: 30rpx;
+  background: #F8F8F8;
+  color: #40474E;
+}
+.sideTab ._li.data-v-35ef3118 {
+  display: inline-block;
+  width: 100%;
+  padding: 0.2rem 0;
+  line-height: 80rpx;
+  box-sizing: border-box;
+}
+.sideTab ._li ._span.data-v-35ef3118 {
+  display: inline-block;
+  width: 100%;
+  padding: 0 18rpx;
+  box-sizing: border-box;
+}
+.sideTab ._li.active.data-v-35ef3118 {
+  background: #fff;
+}
+.sideTab ._li.active ._span.data-v-35ef3118 {
+  color: #40474E;
+  font-weight: 550;
+  border-left: 5px solid #03C173;
+}
+.tabContent.data-v-35ef3118 {
+  -webkit-box-flex: 3;
+  -webkit-flex: 3;
+          flex: 3;
+}
+

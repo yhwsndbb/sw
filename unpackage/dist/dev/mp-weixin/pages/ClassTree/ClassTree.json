@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "选择班级",
+  "usingComponents": {
+    "side-tab": "/components/sideTab",
+    "class-item": "/components/classItem"
+  }
+}

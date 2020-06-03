@@ -1,0 +1,30 @@
+.searchContent.data-v-c521fbf2 {
+  position: fixed;
+  width: 750rpx;
+  top: 0;
+  z-index: 999999;
+}
+.data-v-c521fbf2 .uni-searchbar__box {
+  border: none;
+  border-style: none !important;
+}
+.cuContainer .unisearch.data-v-c521fbf2 {
+  padding: 0rpx 40rpx;
+}
+.cuContainer .pickerLeft.data-v-c521fbf2 {
+  padding: 30rpx 40rpx;
+  color: #03C173;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.cuContainer .pickerLeft .argImg.data-v-c521fbf2 {
+  vertical-align: middle;
+  margin-left: 20rpx;
+  width: 18rpx;
+  height: 14rpx;
+}
+

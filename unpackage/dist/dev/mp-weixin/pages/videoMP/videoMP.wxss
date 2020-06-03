@@ -1,0 +1,37 @@
+.itemBg.data-v-2377ddfa {
+  display: inline-block;
+}
+.scrollContainer.data-v-2377ddfa {
+  position: absolute;
+  white-space: nowrap;
+  bottom: 10%;
+  left: 10%;
+  width: 80%;
+  background-color: #555555;
+  border-radius: 20rpx;
+}
+.coverView.data-v-2377ddfa {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 20rpx;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 0 10rpx;
+}
+.coverView .imageBox.data-v-2377ddfa {
+  margin: 20rpx 10rpx;
+}
+.coverView image.data-v-2377ddfa {
+  width: 200rpx;
+  height: 100rpx;
+  margin-bottom: 10rpx;
+}
+video.data-v-2377ddfa {
+  width: 100vw;
+  height: 100vh;
+}
+

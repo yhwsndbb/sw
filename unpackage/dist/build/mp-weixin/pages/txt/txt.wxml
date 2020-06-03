@@ -1,0 +1,1 @@
+<view><editor class="ql-container text-cyan radius" id="editor" read-only="{{false}}" data-event-opts="{{[['ready',[['onEditorReady',['$event']]]],['input',[['contentChange',['$event']]]]]}}" bindready="__e" bindinput="__e"></editor><view class="addFileBox"><view data-event-opts="{{[['tap',[['saveUpdate',['$event']]]]]}}" class="addFileBth" bindtap="__e">保存修改</view></view></view>

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "资源库",
+  "usingComponents": {
+    "uni-search-bar": "/node-modules/@dcloudio/uni-ui/lib/uni-search-bar/uni-search-bar",
+    "uni-load-more": "/node-modules/@dcloudio/uni-ui/lib/uni-load-more/uni-load-more"
+  }
+}

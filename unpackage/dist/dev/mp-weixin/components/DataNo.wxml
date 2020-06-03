@@ -1,0 +1,1 @@
+<view><block wx:if="{{DataList.length==0||DataList==null}}"><view class="DataNo"><view>暂无数据</view><view data-event-opts="{{[['tap',[['onLoading',['$event']]]]]}}" style="color:#007AFF;font-size:28rpx;" bindtap="__e">（点击刷新）</view></view></block></view>

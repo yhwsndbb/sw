@@ -1,0 +1,1 @@
+editor{height:1000rpx!important;margin:0 20rpx}.addFileBox{z-index:999;position:fixed;bottom:3%;right:14%}.addFileBth{width:275px;height:52px;background:#03c173;border-radius:26px;color:#fff;margin:0 auto;text-align:center;line-height:100rpx}

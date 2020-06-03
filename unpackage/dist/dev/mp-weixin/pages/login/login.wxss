@@ -1,0 +1,97 @@
+.banner.data-v-8becfece {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.Other.data-v-8becfece {
+  color: #FFFFFF;
+  font-size: 26rpx;
+  text-align: center;
+  margin-top: 122rpx;
+  padding-bottom: 80rpx;
+}
+.faceBtn.data-v-8becfece {
+  line-height: 104rpx;
+  margin-top: 20rpx;
+  width: 499rpx;
+  height: 104rpx;
+  background: #03C173;
+  border-radius: 50rpx;
+  border: 1px solid #f5f7fb;
+}
+.face.data-v-8becfece {
+  z-index: 99;
+  top: 26%;
+  left: 32%;
+  position: absolute;
+  display: inline-block;
+  width: 50rpx;
+  height: 50rpx;
+}
+.formInp.data-v-8becfece {
+  color: #FFFFFF;
+  position: relative;
+}
+.formInp image.data-v-8becfece {
+  top: 26%;
+  left: 24%;
+  position: absolute;
+  width: 50rpx;
+  height: 50rpx;
+}
+.formBox.data-v-8becfece {
+  margin-top: 100rpx;
+}
+.formBox .studentBtn.data-v-8becfece {
+  color: #FFFFFF;
+  padding-left: 130rpx;
+  margin: 20rpx auto;
+  display: block;
+  width: 370rpx;
+  height: 104rpx;
+  border-radius: 50rpx;
+  border: 1px solid #f5f7fb;
+}
+.formBox .login.data-v-8becfece {
+  width: 499rpx;
+  height: 104rpx;
+  line-height: 104rpx;
+  background: #FFFFFF;
+  color: #03C173;
+  border-radius: 52rpx;
+}
+.login_title.data-v-8becfece {
+  padding-top: 346rpx;
+  margin-bottom: 300rpx;
+  text-align: center;
+}
+.login_title .students.data-v-8becfece {
+  color: #03C173;
+  margin: 0 auto;
+  width: 132px;
+  height: 60rpx;
+  line-height: 56rpx;
+  background: #ffffff;
+  border-radius: 18px;
+}
+.login_title .titleOne.data-v-8becfece {
+  height: 30px;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.login_title .headline.data-v-8becfece {
+  font-size: 106rpx;
+  height: 73px;
+  font-size: 53px;
+  font-weight: 600;
+  line-height: 123rpx;
+}
+.login_content.data-v-8becfece {
+  position: relative;
+  color: #FFFFFF;
+  min-height: 100vh;
+}
+

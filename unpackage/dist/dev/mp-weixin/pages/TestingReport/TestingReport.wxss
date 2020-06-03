@@ -1,0 +1,31 @@
+.TestingRepor.data-v-6727d7e2 {
+  padding: 10rpx 40rpx;
+}
+.testList.data-v-6727d7e2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  line-height: 100rpx;
+  border-bottom: #F8F8F8 solid 2rpx;
+}
+.testList .testname.data-v-6727d7e2 {
+  white-space: nowrap;
+  overflow: hidden;
+  -webkit-box-flex: 8;
+  -webkit-flex: 8;
+          flex: 8;
+}
+.testList .testLogoBox.data-v-6727d7e2 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.testList .testLogoBox .textLogo.data-v-6727d7e2 {
+  width: 50rpx;
+  height: 50rpx;
+  vertical-align: middle;
+}
+

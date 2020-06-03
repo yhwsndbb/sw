@@ -1,0 +1,23 @@
+.tagContent .tagBox.data-v-2ffb4c36 {
+  margin-top: 20rpx;
+  margin-right: 20rpx;
+  padding: 0 26rpx;
+  border-radius: 50rpx;
+  border: 2rpx solid #929ca4;
+  text-align: center;
+  line-height: 80rpx;
+  display: inline-block;
+  font-size: 28rpx;
+  color: #40474E;
+}
+.tagContent .tagBox.data-v-2ffb4c36:first-child {
+  margin-left: 0;
+}
+.addResource_content.data-v-2ffb4c36 {
+  padding: 0 30rpx;
+}
+.data-v-2ffb4c36 .uni-searchbar__box {
+  border: none;
+  border-style: none !important;
+}
+

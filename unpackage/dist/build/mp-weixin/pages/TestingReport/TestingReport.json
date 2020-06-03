@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "测试报告",
+  "usingComponents": {
+    "data-no": "/components/DataNo"
+  }
+}

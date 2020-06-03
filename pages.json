@@ -1,0 +1,159 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/assistant/assistant",
+			"style": {}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {}
+		},
+		{
+			"path": "pages/questionAsk/questionAsk",
+			"style": {
+				"navigationBarTitleText": "课堂问答"
+			}
+		}, {
+			"path": "pages/referat/referat",
+			"style": {
+				"navigationBarTitleText": "课堂报告"
+			}
+		}, {
+			"path": "pages/prepareLessons/prepareLessons",
+			"style": {}
+		}, {
+			"path": "pages/settings/settings",
+			"style": {
+				"navigationBarTitleText": "多媒体设置"
+			}
+		}, {
+			"path": "pages/testDetails/testDetails",
+			"style": {
+				"navigationBarTitleText": "测试详情"
+			}
+		}, {
+			"path": "pages/underTest/underTest",
+			"style": {
+				"navigationBarTitleText": "课程测试中"
+			}
+		}, {
+			"path": "pages/resourceLibrary/resourceLibrary",
+			"style": {
+				"navigationBarTitleText": "资源库"
+			}
+		}, {
+			"path": "pages/login/login",
+			"style": {}
+		}, {
+			"path": "pages/curriculumLibrary/curriculumLibrary",
+			"style": {
+				"navigationBarTitleText": "课程库"
+			}
+		}, {
+			"path": "pages/curriculumInfo/curriculumInfo"
+		}, 
+		{
+			"path": "pages/testInfo/testInfo",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/addResource/addResource",
+			"style": {}
+		}, {
+			"path": "pages/ResourcesTag/ResourcesTag",
+			"style": {
+				"navigationBarTitleText": "文件"
+			}
+		}, {
+			"path": "pages/uploadResoures/uploadResoures",
+			"style": {
+				"navigationBarTitleText": "文件上传（资源库）"
+			}
+		}, {
+			"path": "pages/searchTag/searchTag",
+			"style": {}
+		}, {
+			"path": "pages/editTag/editTag",
+			"style": {
+				"navigationBarTitleText": "编辑标签"
+			}
+		}, {
+			"path": "pages/videoMP/videoMP",
+			"style": {}
+		}, {
+			"path": "pages/makeClass/makeClass",
+			"style": {
+				"navigationBarTitleText": "课室预约"
+			}
+		}, {
+			"path": "pages/classChapter/classChapter",
+			"style": {
+				"navigationBarTitleText": "选择课程章节"
+			}
+		}, {
+			"path": "pages/ClassTree/ClassTree",
+			"style": {
+				"navigationBarTitleText": "选择班级"
+			}
+		}, {
+			"path": "pages/MakeRecord/MakeRecord",
+			"style": {
+				"navigationBarTitleText": "预约记录"
+			}
+		}, {
+			"path": "pages/MakeInfo/MakeInfo",
+			"style": {
+				"navigationBarTitleText": "预约详情"
+			}
+		}, {
+			"path": "pages/AttendInfo/AttendInfo",
+			"style": {
+				"navigationBarTitleText": "考勤"
+			}
+		}
+	    ,{
+            "path" : "pages/TestingReport/TestingReport",
+            "style" : {	"navigationBarTitleText": "测试报告"}
+        }
+        ,{
+            "path" : "pages/texts/texts",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/uploadFile/uploadFile",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/txt/txt",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF"
+	},
+	"tabBar": {
+		"color": "#929CA4",
+		"selectedColor": "#03C173",
+		"borderStyle": "white",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/assistant/assistant",
+			"iconPath": "static/image/assistant1.png",
+			"selectedIconPath": "static/image/assistant2.png",
+			"text": "智能助教"
+		}, {
+			"pagePath": "pages/index/index",
+			"iconPath": "static/image/classroom1.png",
+			"selectedIconPath": "static/image/classroom2.png",
+			"text": "智能课堂"
+		}, {
+			"pagePath": "pages/prepareLessons/prepareLessons",
+			"iconPath": "static/image/prepare1.png",
+			"selectedIconPath": "static/image/prepare2.png",
+			"text": "智能备课"
+		}]
+	}
+}

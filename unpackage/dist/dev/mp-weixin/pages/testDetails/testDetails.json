@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "测试详情",
+  "usingComponents": {
+    "mpvue-echarts": "/node-modules/mpvue-echarts/src/echarts"
+  }
+}

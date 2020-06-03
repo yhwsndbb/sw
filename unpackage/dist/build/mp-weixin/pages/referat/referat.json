@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "课堂报告",
+  "usingComponents": {
+    "mpvue-echarts": "/node-modules/mpvue-echarts/src/echarts"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "课程测试中",
+  "usingComponents": {
+    "mpvue-echarts": "/node-modules/mpvue-echarts/src/echarts"
+  }
+}
