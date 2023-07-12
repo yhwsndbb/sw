@@ -18,7 +18,7 @@
   "homepage": "https://github.com/lmt888/zhihuikeshi#readme",
   "dependencies": {
     "@dcloudio/uni-ui": "^1.1.8",
-    "echarts": "^4.7.0",
+    "echarts": "^5.4.2",
     "mpvue-echarts": "^0.3.2"
   },
   "devDependencies": {},
